@@ -1,0 +1,14 @@
+C:\sortering\bin\Debug\net10.0\sortering.exe
+C:\sortering\bin\Debug\net10.0\sortering.deps.json
+C:\sortering\bin\Debug\net10.0\sortering.runtimeconfig.json
+C:\sortering\bin\Debug\net10.0\sortering.dll
+C:\sortering\bin\Debug\net10.0\sortering.pdb
+C:\sortering\obj\Debug\net10.0\sortering.GeneratedMSBuildEditorConfig.editorconfig
+C:\sortering\obj\Debug\net10.0\sortering.AssemblyInfoInputs.cache
+C:\sortering\obj\Debug\net10.0\sortering.AssemblyInfo.cs
+C:\sortering\obj\Debug\net10.0\sortering.csproj.CoreCompileInputs.cache
+C:\sortering\obj\Debug\net10.0\sortering.dll
+C:\sortering\obj\Debug\net10.0\refint\sortering.dll
+C:\sortering\obj\Debug\net10.0\sortering.pdb
+C:\sortering\obj\Debug\net10.0\sortering.genruntimeconfig.cache
+C:\sortering\obj\Debug\net10.0\ref\sortering.dll
